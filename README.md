@@ -6,7 +6,7 @@ Learnt Data Visualization and Data Analytics with Tableau
 Screenshot
 ==========
 
-Sales Insight Tableu Dashboard
+Gaming Sales Analysis Dashboard
 ------------------------------
 
 
